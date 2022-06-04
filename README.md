@@ -1,5 +1,5 @@
 # floppy-disk-image-file-.img
-Floppy disk image files .img with no data
+Floppy disk image files .img with no data formatted using MS-DOS format
 
 Here you can download floppy disk image files .img with no data in different disk sizes
 1.44mb
