@@ -2,10 +2,13 @@
 Floppy disk image files .img with no data formatted using MS-DOS format
 
 Here you can download floppy disk image files .img with no data in different disk sizes
+```text
+2.88mb
 1.44mb
 1.2mb
 720kb
 360kb
+```
 
 Should be able to mount these on virtual machine software such as vmware, virtual machine, etc.
 VMWARE : mount floppy image
